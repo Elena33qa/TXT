@@ -1,1 +1,5 @@
-
+ID: 1,
+Severity: Major,
+Environment: OS: "MacOs Monterey 12.6.6",Browser: "Safari 16.5",
+Title: Widget  isn't displayed on page when select EG language,
+Steps: 
