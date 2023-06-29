@@ -1,0 +1,6 @@
+1. Skill - Linux Terminal,
+2. Skill - GitHub, 
+3. Skill - SQL, 
+4. Skill - Postman,
+5. Skill - Jmeter sniffing
+
